@@ -14,3 +14,4 @@ Decryption: python3 sdes.py –d <key> <ciphertext file name> <plaintext file na
 
 Example:  
 python3 sdes.py -e 1011010100 file1.jpg cipher.txt
+
